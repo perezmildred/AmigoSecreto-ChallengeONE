@@ -32,15 +32,21 @@ Esta aplicación permite realizar un sorteo de amigo secreto de manera sencilla 
 ---
 
 ## 📂 **Estructura del Proyecto**
-📁 amigo-secreto/ ├── 📄 index.html # Página principal ├── 📄 style.css # Estilos de la página ├── 📄 app.js # Lógica de la aplicación └── 📁 assets/ # Imágenes y recursos
+📁 amigo-secreto/ 
+├── 📄 index.html # Página principal 
+├── 📄 style.css # Estilos de la página 
+├── 📄 app.js # Lógica de la aplicación
+└── 📁 assets/ # Imágenes y recursos
 ---
 
 ## 🚀 **Cómo Clonar el Proyecto**
 1. Clona el repositorio:
- git clone https://github.com/tuusuario/tu-repositorio.git
-2.Abre el proyecto:
+git clone [https://github.com/tuusuario/tu-repositorio.git](https://github.com/perezmildred/AmigoSecreto-ChallengeONE.git)
+2. Abre el proyecto
 cd amigo-secreto
-3. Abre el archivo `index.html` en tu navegador.
+3. Abre el archivo 
+`index.html` en tu navegador.
+
 
 ---
 
